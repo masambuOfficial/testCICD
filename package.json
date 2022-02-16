@@ -1,0 +1,15 @@
+{
+  "name": "cicdwebapp",
+  "version": "1.0.0",
+  "description": "Create an application to use in the CI/CD Module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Emmanuel and Ziyal",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.19.1",
+    "express": "^4.17.2"
+  }
+}
